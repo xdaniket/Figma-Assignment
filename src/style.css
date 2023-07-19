@@ -1,0 +1,365 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.head-content {
+  margin-top: -19px;
+  margin-bottom: 16px;
+}
+.page-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -1px;
+  border: 1px solid grey;
+  width: 820px;
+  margin-left: 195px;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  width: 60vw;
+  margin: auto;
+  border: 1px solid grey;
+  padding: 35px;
+  margin-left: 195px;
+  padding-top: 0px;
+  padding-bottom: 96px;
+}
+.texts {
+  margin-top: -16px;
+}
+.left-container {
+  background: rgb(233 240 235);
+  width: 30vw;
+  border: 1px solid grey;
+  height: 133px;
+  padding: 8px;
+  border-radius: 4px;
+  position: relative;
+  bottom: 149px;
+}
+.secnd-img-container {
+  position: absolute;
+  top: 320px;
+  background: rgb(233 240 235);
+  width: 29vw;
+  height: 183px;
+  right: -9px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  padding: 5px;
+}
+.outer-container {
+  background: rgba(221, 239, 227, 0.5);
+  height: 174px;
+  width: 328px;
+  border-radius: 5px;
+  margin-left: 36px;
+  border: 1px solid grey;
+  display: flex;
+}
+.second-contner-img {
+  width: 178px;
+  border-radius: 4px;
+  margin-left: 16px;
+  margin-top: 10px;
+}
+.secnd-container-inner-img {
+  width: 91px;
+  margin-left: 45px;
+  height: 174px;
+}
+.inner-btn {
+  margin-left: 27px;
+  margin-top: 13px;
+  border-radius: 4px;
+  border: 1px solid grey;
+  padding: 5px;
+  background-color: #ffee58;
+}
+.secnd-inner-container {
+  display: flex;
+  font-size: 14px;
+}
+.horizontal {
+  margin: 8px;
+}
+
+.upper-div {
+  background: rgb(233 240 235);
+  border: 1px solid grey;
+  height: 101px;
+  width: 129px;
+  position: absolute;
+  right: -9px;
+  top: -20px;
+  border-bottom-color: transparent;
+}
+.upr-btn {
+  position: relative;
+  top: 23px;
+  left: 19px;
+  background-color: #ffee58;
+  border-radius: 4px;
+  padding: 7px;
+  border: 1px solid grey;
+}
+.ssecond-div {
+  margin-left: -114px;
+}
+.tthird-div {
+  margin-left: -115px;
+}
+.horiLne {
+  margin-bottom: 14px;
+  margin-left: 6px;
+  margin-top: 13px;
+}
+.inner-left-container {
+  display: flex;
+  position: relative;
+  font-size: 14px;
+}
+.botom-left-container {
+  position: absolute;
+  right: 21px;
+  border: 1px solid grey;
+  width: 179px;
+  height: 178px;
+  top: 82px;
+  border-top: none;
+}
+.frst-img {
+  position: absolute;
+  width: 163px;
+  top: 52px;
+  z-index: 1;
+}
+.secondd-img {
+  width: 152px;
+  margin-left: 28px;
+  margin-top: -20px;
+}
+.right-container {
+  width: 30vw;
+  position: relative;
+  top: 39px;
+}
+.inner-right-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid grey;
+  margin-bottom: 15px;
+}
+.heads {
+  margin-top: 2px;
+  margin-bottom: -17px;
+  font-size: 17px;
+}
+.user-svg {
+  width: 28px;
+  position: relative;
+  top: 20px;
+  right: 16px;
+}
+.phone-svg {
+  width: 26px;
+  position: relative;
+  top: 18px;
+  right: 16px;
+}
+.vector-svg {
+  width: 28px;
+  position: relative;
+  top: 4px;
+  right: 16px;
+  height: 14px;
+}
+.cntent {
+  margin-top: -5px;
+  margin-bottom: -14px;
+  font-size: 14px;
+}
+.text {
+  font-size: 14px;
+  margin-top: -4px;
+}
+.text1 {
+  width: 561px;
+}
+.text2 {
+  margin-top: -10px;
+}
+.frst-step {
+  display: flex;
+}
+.frst-heading {
+  margin: 16px 8px;
+}
+.aero-svg {
+  margin-top: -13px;
+}
+.frst-content {
+  margin-top: -14px;
+  font-size: 13px;
+  width: 253px;
+  margin-left: 33px;
+}
+.mid-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid grey;
+  width: 820px;
+  margin-left: 195px;
+  border-top-color: transparent;
+  padding-bottom: 20px;
+}
+.head2 {
+  margin-bottom: 6px;
+  padding: 9px;
+  background: rgba(221, 219, 227, 1);
+  border-radius: 2px;
+}
+.ff-div {
+  border-radius: 4px;
+}
+.secnd-div {
+  margin-right: 180px;
+  background: rgba(221, 239, 227, 1);
+  padding: 9px;
+  margin-top: -5px;
+  margin-bottom: 12px;
+}
+.third-div {
+  margin-top: -18px;
+  margin-left: 125px;
+}
+.hr1 {
+  margin-top: -16px;
+  margin-bottom: 20px;
+  width: 136px;
+  margin-left: 21px;
+  height: 1px;
+  background: grey;
+}
+.hr2 {
+  margin-top: -15px;
+  margin-bottom: 18px;
+  width: 140px;
+  margin-left: 23px;
+  height: 1px;
+  background: grey;
+}
+.hr3 {
+  margin-top: -15px;
+  margin-bottom: 20px;
+  width: 107px;
+  margin-left: 23px;
+  height: 1px;
+  background: grey;
+}
+.btn {
+  margin: 0px 15px;
+  font-size: 12px;
+  border-radius: 6px;
+  border: 1px solid grey;
+  padding: 5px;
+  margin-bottom: 13px;
+}
+.btn1 {
+  background-color: #ffee58;
+}
+.spann {
+  font-size: 14px;
+  margin-right: 19px;
+}
+.btn3 {
+  font-size: 11px;
+  border-radius: 6px;
+  border: 1px solid grey;
+  padding: 4px;
+}
+.botom-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid grey;
+  border-radius: 3px;
+  padding: 8px;
+  background: rgb(233 240 235);
+  margin-bottom: 68px;
+}
+.butnDiv {
+  display: flex;
+  flex-direction: column;
+}
+.frst-btn {
+  background-color: #ffee58;
+  border-radius: 3px;
+  border: 2px solid grey;
+  padding: 7px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  cursor: pointer;
+  color: #474444;
+}
+.secnd-btn {
+  border-radius: 3px;
+  cursor: pointer;
+  border: 1px solid grey;
+  padding: 7px;
+  width: 97px;
+  margin-left: 32px;
+}
+.input {
+  border: none;
+  border-bottom-style: groove;
+  text-align: -webkit-center;
+  padding: 8px;
+}
+.btm-div {
+  background: rgba(221, 239, 227, 1);
+  border-radius: 8px;
+  width: 225px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+  margin-right: 260px;
+}
+.span-text {
+  font-size: 15px;
+}
+.pay {
+  margin: 3px 7px;
+}
+.hand-svg {
+  margin-right: -1px;
+  margin-bottom: 12px;
+}
+.footer-img {
+  margin-left: 329px;
+  margin-top: -1px;
+  border: 1px solid grey;
+  width: 820px;
+  margin-left: 195px;
+  border-top-color: transparent;
+}
